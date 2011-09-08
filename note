@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 note in branch 3 merged into master
+=======
+
+<<<<<<< HEAD
+te in branch 2
+=======
+te in branch3
+>>>>>>> branch3
+>>>>>>> branch2
